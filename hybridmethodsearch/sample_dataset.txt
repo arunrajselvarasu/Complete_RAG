@@ -1,0 +1,34 @@
+BMW is a German luxury automobile manufacturer founded in 1916.
+The company is headquartered in Munich, Germany.
+BMW produces premium cars, motorcycles, and electric vehicles.
+The BMW i4 and BMW iX are popular electric vehicle models.
+Groq develops AI inference hardware for large language models.
+Its LPU architecture is designed for low-latency AI inference.
+Groq focuses on accelerating generative AI applications.
+Retrieval-Augmented Generation (RAG) combines retrieval and generation.
+RAG enables language models to use external knowledge sources.
+This improves answer accuracy and reduces hallucinations.
+ChromaDB is a vector database used in AI applications.
+It stores embeddings and supports semantic search.
+Vector databases are commonly used in RAG systems.
+Embeddings convert text into numerical vectors.
+Similar meanings produce similar vectors.
+Embeddings are the foundation of semantic search.
+Dense retrieval uses embeddings to find relevant documents.
+Sparse retrieval uses keyword matching techniques like BM25.
+Hybrid search combines dense and sparse retrieval methods.
+Max Marginal Relevance (MMR) reduces duplicate retrieval results.
+It increases diversity among retrieved documents.
+MMR helps provide broader context to language models.
+Re-ranking improves retrieval quality.
+A reranker reorders retrieved documents by relevance.
+This often improves the final answer quality.
+LangChain is a framework for building LLM applications.
+It provides tools for prompts, chains, retrievers, and memory.
+RunnableMap allows parallel execution of multiple operations.
+Large Language Models (LLMs) are trained on massive text datasets.
+They can generate text, answer questions, and summarize information.
+Popular LLM applications include chatbots and assistants.
+Semantic chunking groups text by meaning.
+It creates more coherent chunks than fixed-size splitting.
+Semantic chunking can improve retrieval performance in RAG systems.

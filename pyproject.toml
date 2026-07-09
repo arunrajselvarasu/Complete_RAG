@@ -1,0 +1,30 @@
+[project]
+name = "ragudemy"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "arxiv>=4.0.0",
+    "chromadb>=1.5.9",
+    "faiss-cpu>=1.14.2",
+    "grog>=0.93",
+    "groq==0.31.1",
+    "ipykernel>=6.31.0",
+    "langchain>=0.3.30",
+    "langchain-community>=0.3.31",
+    "langchain-core>=0.3.86",
+    "langchain-experimental>=0.3.4",
+    "langchain-groq",
+    "langchain-huggingface>=0.3.1",
+    "langchain-text-splitters>=0.3.11",
+    "langgraph>=1.0.1",
+    "numpy>=2.0.2",
+    "pandas>=2.3.3",
+    "phonenumbers>=9.0.33",
+    "pymupdf>=1.26.5",
+    "pypdf>=6.12.2",
+    "rank-bm25>=0.2.2",
+    "sentence-transformers>=5.1.2",
+    "wikipedia>=1.4.0",
+]

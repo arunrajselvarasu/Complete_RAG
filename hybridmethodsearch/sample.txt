@@ -1,0 +1,67 @@
+BMW is a German luxury automobile manufacturer founded in 1916.
+
+BMW is headquartered in Munich, Germany.
+
+BMW produces premium cars, motorcycles, and electric vehicles.
+
+The BMW i4 and BMW iX are popular electric vehicle models.
+
+BMW continues to invest heavily in sustainable transportation technologies.
+
+Mercedes-Benz is another German automotive company known for luxury vehicles.
+
+Mercedes-Benz develops advanced driver assistance and autonomous driving systems.
+
+The Mercedes EQS is a flagship electric luxury sedan.
+
+Audi is a premium automobile manufacturer owned by the Volkswagen Group.
+
+Audi focuses on innovation, performance, and electric mobility.
+
+The Audi e-tron series represents the company's electric vehicle lineup.
+
+Tesla is an American electric vehicle company founded by Elon Musk.
+
+Tesla is known for its Model S, Model 3, Model X, and Model Y vehicles.
+
+Tesla pioneered large-scale adoption of electric vehicles worldwide.
+
+Groq is a technology company specializing in AI inference hardware.
+
+Groq provides ultra-fast inference for large language models.
+
+Groq hardware is designed to reduce latency in AI applications.
+
+LangChain is an open-source framework for building LLM-powered applications.
+
+LangChain provides tools for chains, agents, memory, and retrieval systems.
+
+LangChain is widely used for Retrieval-Augmented Generation (RAG) applications.
+
+Retrieval-Augmented Generation (RAG) combines information retrieval with text generation.
+
+RAG helps language models answer questions using external knowledge sources.
+
+RAG systems often use vector databases to store document embeddings.
+
+ChromaDB is a vector database used for semantic search and retrieval.
+
+ChromaDB stores embeddings and retrieves relevant documents efficiently.
+
+FAISS is another popular vector database library developed by Meta.
+
+Sentence Transformers generate dense vector embeddings for semantic search tasks.
+
+Embeddings convert text into numerical representations that capture meaning.
+
+Cosine similarity measures how similar two embeddings are.
+
+Semantic chunking groups related sentences based on embedding similarity.
+
+Machine learning enables computers to learn patterns from data.
+
+Deep learning is a subset of machine learning based on neural networks.
+
+Large Language Models are trained on massive amounts of text data.
+
+Artificial intelligence is transforming industries such as healthcare, finance, and education

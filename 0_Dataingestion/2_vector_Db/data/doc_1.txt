@@ -1,0 +1,3 @@
+FAISS is a vector database library developed for
+    efficient similarity search and clustering of dense vectors
+    in machine learning and RAG applications.

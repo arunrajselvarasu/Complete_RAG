@@ -1,0 +1,3 @@
+LangChain is a framework that helps developers build
+    applications powered by large language models such as
+    chatbots, RAG systems, and AI agents.

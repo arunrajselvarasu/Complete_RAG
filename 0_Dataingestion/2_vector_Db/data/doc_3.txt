@@ -1,0 +1,2 @@
+Machine learning enables computers to learn patterns
+    from data and make predictions without being explicitly programmed.
